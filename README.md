@@ -1,4 +1,4 @@
-CCNA Practicals Repository
+**CCNA Practicals Repository**
 
 This repository contains my hands-on CCNA practicals, including network configurations, troubleshooting steps, and notes.
 📌 What You'll Find Here
